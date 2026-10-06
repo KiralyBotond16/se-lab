@@ -1,6 +1,6 @@
 # SE Spaceship
 
-[![Java CI with Maven](https://github.com/KiralyBotond16/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/KiralyBotond16/se-lab/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/KiralyBotond16/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/KiralyBotond16/se-lab/actions/workflows/maven.yml)
 
 ![License](https://img.shields.io/github/license/KiralyBotond16/se-lab)
 
